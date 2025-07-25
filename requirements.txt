@@ -1,0 +1,6 @@
+vosk
+opencv-python
+sounddevice
+requests
+numpy
+streamlit
